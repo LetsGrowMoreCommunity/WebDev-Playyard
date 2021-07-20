@@ -47,7 +47,7 @@ In this file you will get how to setup the whole project and also how to create 
 <h1 align="center">Project Mentors ⛑️</h1>
 <div align="center" width="50%">
 
-| Sneha Agarwal                                                   | Ujjual Sharma                                             |
+| Sneha Agarwal                                                     | Ujjawal Sharma                                          |
 | ----------------------------------------------------------------- | ------------------------------------------------------- |
 | <img width="150px"  src="https://github.com/SnehaAgarwal361.png"> | <img width="150px" src="https://github.com/ujju20.png"> |
 
