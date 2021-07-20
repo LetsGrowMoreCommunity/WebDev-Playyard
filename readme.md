@@ -5,7 +5,7 @@
 <h3>Hello Everyone 👋🏻 Glad to see you all here !! I hope everyone is eager to give their best contributions. This project aims to collected mini project realted to front-end web development at a single place.Not only Projects but also aim to collect documents ( notes ) & provide references for beginners to learn it.
 
 <h1 align="center"> Technologies Included </h1>
-<div></div>
+<div align="center"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></div>
 
 <h1 align="center">Project Structure 📌</h1>
 <img src="assets/media/tree-struct.PNG" width="100%">
