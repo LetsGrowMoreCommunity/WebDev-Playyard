@@ -8,7 +8,7 @@
 <div align="center"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></div>
 
 <h1 align="center">Project Structure 📌</h1>
-<img src="assets\media\tree-struct.png" width="100%">
+<img src="assets/media/tree-struct.PNG" width="100%">
 <ul>
 <li>In assets folder ( root directory ) we will be having css files & media file of Main website.</li>
 <li>In Docs Folder we will be adding Notes in of Technologies in its respective folder. Check Docs folder for more details.</li>
