@@ -8,7 +8,7 @@
 <div></div>
 
 <h1 align="center">Project Structure 📌</h1>
-<img src="assets\media\tree-struct.png" width="100%">
+<img src="assets/media/tree-struct.PNG" width="100%">
 <ul>
 <li>In assets folder ( root directory ) we will be having css files & media file of Main website.</li>
 <li>In Docs Folder we will be adding Notes in of Technologies in its respective folder. Check Docs folder for more details.</li>
