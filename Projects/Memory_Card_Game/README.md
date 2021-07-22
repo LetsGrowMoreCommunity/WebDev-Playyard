@@ -19,8 +19,8 @@ git clone https://github.com/LetsGrowMoreCommunity/WebDev-Playyard.git
 
 # Screenshots
 - When a player turns over two cards that match, those cards get fixed.
-![](./Assets/screenshots/matched.png)
+![](./Assets/media/screenshots/matched.png)
 
 - When a player turns over two cards that do not match, those cards are turned face down again (in the same position).
-![](./Assets/screenshots/not_matched.png)
-![](./Assets/screenshots/back_to_original.png)
+![](./Assets/media/screenshots/not_matched.png)
+![](./Assets/media/screenshots/back_to_original.png)
