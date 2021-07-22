@@ -31,6 +31,8 @@ Also many times we need a heading for our table, so for this we use th tag. Th t
 And inorder to insert normal data we use td tag.So for every row there must be equal number of td or th tags.
 In the above example, using html we have tried to make a table with name and roll number as heading and siddhi and 1 as table data.
 
+# Example
+![Screenshot_20210722-144911_Chrome](https://user-images.githubusercontent.com/69195262/126616796-c0039f31-dcb6-4c2b-bfff-8b4d0ab3f1e9.jpg)
 
-  
+Here I have added some css as well just to show border of table.
   
