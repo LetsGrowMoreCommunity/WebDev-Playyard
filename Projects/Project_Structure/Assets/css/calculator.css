@@ -1,0 +1,74 @@
+@import url(https://fonts.googleapis.com/css?family=Share);
+@font-face {
+    font-family: 'Digital';
+  src: url('https://jonathanfelipe.com.br/css3-calculator/font/Digital.eot');
+  src: url('https://jonathanfelipe.com.br/css3-calculator/font/Digital.eot?#iefix') format('embedded-opentype'), url('https://jonathanfelipe.com.br/css3-calculator/font/Digital.woff') format('woff'), url('https://jonathanfelipe.com.br/css3-calculator/font/Digital.ttf') format('truetype'), url('https://jonathanfelipe.com.br/css3-calculator/font/Digital.svg#https://jonathanfelipe.com.br/css3-calculator/font/Digital-7Italic') format('svg');
+}
+
+body{
+background:url('http://fc05.deviantart.net/fs32/f/2008/227/4/a/Ibex_Wallpaper_by_willwill100.png');
+}
+.result{
+  background:#cecfac;
+  color:#3b3b32;
+  width:90%;
+  margin:8px 0px 20px 10px;
+  height:50px;
+  overflow:hidden;
+  font-family:Digital;
+  text-align:right;
+  line-height:46px;
+  padding-right:10px;
+  font-size:35px;
+  box-shadow:inset 0 0px 8px rgba(0,0,0,0.5),inset 0px 2px 0 #a1a1a1;
+  
+}
+.numbers {
+  padding:0;
+  margin:0;
+}
+.numbers > li {
+  background:#efefef;
+  padding:10px;
+  font-family:Share;
+  width:15%;
+  list-style:none;
+  float:left;
+  margin:5px;
+  cursor:pointer;
+  border-radius: 5px;
+  color: #737373;
+  font-size: 20px;
+  box-shadow: 0 5px 0 #a1a1a1, 0 2px 5px rgba(0, 0, 0, .75);
+  text-align:center;
+      transition: all .07s ease;
+    -webkit-transition: all .07s ease;
+    -moz-transition: all .07s ease;
+}
+.numbers > li:active {
+  position: relative;
+  top: 5px;
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, .4);
+}
+.numbers > li:last-child{
+width:65%;
+margin-top:-48px;
+}
+
+.numbers > li:nth-child(16) {  
+height:75px;
+  line-height:80px;
+}
+.calc{
+  background:#c2c2c2;
+  width:300px;
+  position:absolute;
+  top:5%;
+  left:50%;
+  margin-left:-150px;
+  padding:10px;
+  border-radius:5px;
+  height:340px;
+  text-align:center;
+  box-shadow: 0 6px 0 #a1a1a1, 0 8px 10px rgba(0, 0, 0, .75);
+}
