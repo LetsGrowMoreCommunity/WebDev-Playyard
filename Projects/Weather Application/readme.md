@@ -1,4 +1,4 @@
-# ☀️🌤⛈ [*_Weather-Application-using-API_*](https://khushi-purwar.github.io/Weather-Application-using-API/)
+# ☀️🌤⛈ Weather-Application-using-API
 ## Overview of Weather App
 
 > _A simple API enabled website build using HTML, CSS & JavaScript._
