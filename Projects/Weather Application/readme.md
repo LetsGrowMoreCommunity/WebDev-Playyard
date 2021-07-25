@@ -11,7 +11,5 @@ Weather app will show the following information, the user's city and country (Et
 
 **API:** [OpenWeatherMap](https://openweathermap.org/)
 
-  
-Live Demo: https://youtu.be/hhyEfJ73NjY
 
 ## ScreenShot
