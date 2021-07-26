@@ -5,7 +5,7 @@
 
 <p align="center"><img src="https://i.ytimg.com/vi/qwvxfyddouQ/maxresdefault.jpg" width=600></p>
 
-We want to make contributing to this project as easy and as transparent as possible, whether it's:<br>
+We want to make contributions to this project as easy and as transparent as possible, whether it's:<br>
 
 - Reporting a bug :bug:
 
@@ -171,7 +171,7 @@ git push -u origin <your_branch_name>
 # Relevant Screenshots/Gifs
 
 
-> - Refrain from using phrases like "Hi, I am ..", "Please merge me this PR", "Thank You..", etc. We are only interested in technical parts.
+> - Refrain from using phrases like "Hi, I am ..", "Please merge this PR", "Thank You..", etc. We are only interested in technical parts.
 >
 > - Attach a screenshot/clip of the change(s).
 >
