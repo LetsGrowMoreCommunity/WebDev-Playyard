@@ -28,5 +28,6 @@ git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
 
 
 <h3> ScreenShots </h3>  
+<img width="960" alt="Weather-App" src="https://user-images.githubusercontent.com/64218887/127520502-f505a072-8c1b-47de-98b7-0a954b243c85.png">
 
 <br>
