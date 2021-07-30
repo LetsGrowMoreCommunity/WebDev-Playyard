@@ -23,6 +23,4 @@ For News : https://covid-19-news.p.rapidapi.com/v1/covid?q=covid&lang=en&media=T
 
 ## Live Demo
 
-<video width="320" height="240" controls >
-  <source src="movie.mp4" type="./Assets/media/Corona Tracker App.mp4" >
-</video>
+<img src=./Assets/media/demo.gif"" />
