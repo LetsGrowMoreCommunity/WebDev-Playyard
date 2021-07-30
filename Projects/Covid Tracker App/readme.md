@@ -23,4 +23,4 @@ For News : https://covid-19-news.p.rapidapi.com/v1/covid?q=covid&lang=en&media=T
 
 ## Live Demo
 
-<img src=./Assets/media/demo.gif"" />
+<img src="./Assets/media/demo.gif" />
