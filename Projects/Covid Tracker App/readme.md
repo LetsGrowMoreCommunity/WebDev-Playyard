@@ -1,10 +1,10 @@
-Covid-Tracker-App-using-API
+# Covid-Tracker-App-using-API
 
 ## Overview of the Application
 
 > _A simple API enabled website build using HTML, CSS & JavaScript._
 
-Weather app will show the following information, the user's city and country (Etawah, IN), day and date , the temperature value (21°C) in Celsius unit,  the weather description (rainy), an Icon that shows the weather status, and then min and max temperature.
+Covid Tracker App will show the following information, total active cases, total cases till now, total recovered cases, total death cases and at last latest news related to Covid.
 
 ## Tech Stack
 
@@ -13,9 +13,16 @@ Weather app will show the following information, the user's city and country (Et
 **API:** 
 
 For Covid Data: https://openweathermap.org/
+
 For News : https://covid-19-news.p.rapidapi.com/v1/covid?q=covid&lang=en&media=True
 
 
 ## ScreenShot
 
-![image](https://user-images.githubusercontent.com/52875298/126892370-bf5d82d4-a1b1-4e02-a5cc-631dde55a8e3.png)
+<img src="./Assets/media/ss1.png" />
+
+## Live Demo
+
+<video width="320" height="240" controls >
+  <source src="movie.mp4" type="./Assets/media/Corona Tracker App.mp4" >
+</video>
