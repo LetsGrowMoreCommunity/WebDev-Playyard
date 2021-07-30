@@ -1,0 +1,149 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e5eff8;
+}
+
+section {
+    width: 80%;
+    height: 80vh;
+    display: grid;
+    grid-template-columns: 25% 50% 25%;
+    grid-template-rows: 30% 70%;
+    grid-gap: 15px;
+}
+
+.block {
+    border-radius: 15px;
+    box-shadow: 0 10px 25px -10px rgba(33,150,243,0.5);
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.block .numbers {
+    font-size: 3rem;
+}
+
+.block .label {
+    font-size: 1.2rem;
+    padding: 15px 0 0 0 ;
+    color:#424242;
+}
+
+.total-cases {
+    color:#2196F3;
+    /* grid-column: 1/2;
+    grid-row: 1/2; */
+}
+
+.active-cases {
+    color:#FFC107;
+    /* grid-column: 2/3;
+    grid-row: 1/2; */
+}
+
+.death-cases {
+    color:#F44336;
+    /* grid-column: 3/4;
+    grid-row: 1/2; */
+}
+
+.recovered-cases {
+    color:#4CAF50;
+    /* grid-column: 1/2;
+    grid-row: 2/3; */
+}
+
+.news {
+    grid-column: 2/4;
+    grid-row: 2/3;
+    background: #fff;
+    box-shadow: 0 10px 25px -10px rgba(33,150,243,0.5);
+    border-radius: 15px;
+    overflow-y: auto;
+    display: flex;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+}
+
+h1{
+    
+    padding-left: 300px;
+}
+
+.news .card {
+    width: 35%;
+    background: #e5eff8;
+    display: flex;
+    flex-direction: column;
+    margin: 50px auto;
+    border-radius: 15px;
+}
+
+.card img {
+    width: 100%;
+    border-radius: 15px 15px 0 0;
+}
+
+.card .headline,.summary, .topic {
+    padding: 10px 15px;
+    font-size: 1.5rem;
+}
+
+.headline {
+    color:#007f96
+}
+
+.topic{
+    font-size: 1rem;
+    text-transform: capitalize;
+    color: red;
+}
+
+.summary {
+    font-size: 1rem;
+    color: #424242;
+}
+
+.read-more button{
+    width: 100%;
+    padding: 15px 0;
+    border: none;
+    font-size: 1.1rem;
+    border-radius: 0 0 15px 15px ;
+    background: #2196F3;
+    color: #fff;
+    transition: 0.3s;
+    outline: none;
+}
+
+.read-more button:hover{
+    background: #FFC107;
+    color: #000;
+    cursor: pointer;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #fff;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #9e999e;
+}
