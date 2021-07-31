@@ -12,5 +12,6 @@ The Snake game created using Javascript, HTML5. CSS3.
 
 ## Screenshots
 <p>
-<
+<img width="960" alt="preview" src="https://user-images.githubusercontent.com/64218887/127745985-6d439f20-ff33-4f50-ac99-8b0319ed59a0.png">
+
 </p>
