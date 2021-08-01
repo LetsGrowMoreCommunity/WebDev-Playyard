@@ -21,7 +21,7 @@ li.appendChild(document.createTextNode(taskInput.value));
 
 const link=document.createElement('a');
 //link.className="delete-item";
-link.innerHTML='<i class="material-icons">delete</i>'
+link.innerHTML='<b class="material-icons" size=200>done</b>'
 li.appendChild(link);
 tasklist.appendChild(li);
 e.preventDefault();
