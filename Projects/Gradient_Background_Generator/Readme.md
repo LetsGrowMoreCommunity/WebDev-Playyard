@@ -10,20 +10,6 @@
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS"></p>
 
-<h2 id="how-to-use">How to use:</h2>
-<br>
-
-<ul>
-  <li>Download or clone the repository</li>
-<pre><code>
-  git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-</code></pre>
-  
-  <li>Go to the directory</li>
-  <li>Run the index.html file in your browser</li>
-  <li>Start creating your own gradient background<br></li>
-</ul>
-
 <h2 id="use-of-the-project">Use of the Project</h2>
 
 <p>
