@@ -19,7 +19,7 @@ function calculateTip(){
     }
 
     let total = (amount * service)/person;
-    total = Math.round(total*100)/100;
+    total = Math.round(total)/100;
     total = total.toFixed(2);
 
     document.querySelector(".tip").style.display = " block";
