@@ -19,6 +19,6 @@ Client: HTML, CSS , JavaScript
 ScreenShot
 image
 ![Screenshot (673)](https://user-images.githubusercontent.com/80565044/127768326-20c61ce4-4cf7-44de-8868-5a8b55b997f9.png)
-file:///C:/Users/HP/To-do-list/index.html?text=
+https://jainapoorva40.github.io/To-do-list/
 
 
