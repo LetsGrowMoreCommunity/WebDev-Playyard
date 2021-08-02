@@ -18,6 +18,7 @@ Client: HTML, CSS , JavaScript
 
 ScreenShot
 image
-![Screenshot (670)](https://user-images.githubusercontent.com/80565044/127144801-f588da66-eb22-4771-9eec-9b63fc2e4412.png)
+![Screenshot (673)](https://user-images.githubusercontent.com/80565044/127768326-20c61ce4-4cf7-44de-8868-5a8b55b997f9.png)
+file:///C:/Users/HP/To-do-list/index.html?text=
 
 
