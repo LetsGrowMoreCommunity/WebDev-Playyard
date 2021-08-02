@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <title>Page</title>
+        <style>
+         .card {
+    align-items:center;
+    padding-left: 200px;
+    padding-right: 250px;
+    box-shadow: 0 0px 20px 0 rgba(0,0,0,0.2);
+    background-color: rgba(187, 207, 226, 0.877);
+  
+ }
+        </style>
+        
+    </head>
+    <body bgcolor="pink"><h3>
+        <p align="center" ><b ><i> <span id='date-time'></span></b></i></p></h2>
+        <div class="container" >
+            <div class="row">
+                <div class="col 18">
+                    <div class="card" border="100px"  >
+                        <div class="card-content">
+                            <span class="card-title">TO DO LIST</span>
+                            <div class="row">
+                            
+                            <form id="formm">
+                                <div class="input-field col s12">
+                                    <input type="text" name="text" id="task">
+                                    <label>ENTER</label>
+                                </div>
+                                    <input type="submit" value="ADD A TASK" class="btn-floating">
+                                   <input type="reset"  value="C" onclick="formm.display.value=' '" name="clear" class="btn-floating">
+                
+                            </form>
+                            </div>
+                        </div>
+                       
+                        <div class="card-content">
+                            <h5 id="task-title">TASK LIST</h5>
+                            <div class="input-field col s12">
+                                <input type="text" name="filter" id="filter">
+                                <label >Filter Task</label>
+
+                            </div>
+                            <ul class="collection"></ul>
+                            <a href=" " class="black btn clear task">CLEAR</a>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script>
+            var dt = new Date();
+            document.getElementById('date-time').innerHTML=dt;
+            </script>
+
+        <script src="./sample.js"> </script>
+        <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script> 
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    
+    </body>
+</html>
