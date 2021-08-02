@@ -1,5 +1,5 @@
-# TINDOG 🐕
-Personal Project: Tinder for dogs 🐶
+# TINDOG 🐶
+Personal Project: Tinder for dogs 🦮
 
 <br/>
 
