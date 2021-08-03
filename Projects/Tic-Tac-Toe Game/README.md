@@ -20,8 +20,10 @@
 - Start Playing!!
 
 <h3> ScreenShots </h3> 
+<img width="878" alt="tictactoe-dark" src="https://user-images.githubusercontent.com/64218887/128006639-e5a8aec1-c0bf-4836-a04e-11f4f76a7991.png">
 
 <br>
+<img width="889" alt="tictactoe-light" src="https://user-images.githubusercontent.com/64218887/128006653-acf94c09-9b60-4f9a-aa3f-d4b8ed5ce9b1.png">
 
 <br>
 
