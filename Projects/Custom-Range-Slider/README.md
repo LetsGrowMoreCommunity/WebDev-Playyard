@@ -2,6 +2,9 @@
 
 <p>Simple Custom Range Slider written in HTML, CSS, and JavaScript .</p>
 
+#### WebPage Link : https://atif0604.github.io/WebDev-Playyard/Projects/Custom-Range-Slider/index.html
+
+
 ### Use of the Project:
 
 <p>Range Sliders are used on web pages to allow the user specify a numeric value which must be no less than a given value, and no more than another given value. That is, it allows to choose value from a range which is represented as a slider.</p>
