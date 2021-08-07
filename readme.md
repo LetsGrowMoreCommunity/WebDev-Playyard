@@ -1,3 +1,20 @@
+<div align="center">
+
+<a href="https://github.com/LetsGrowMoreCommunity/WebDev-Playyard"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
+<a href="https://github.com/LetsGrowMoreCommunity/WebDev-Playyard"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
+<a href="https://github.com/LetsGrowMoreCommunity/WebDev-Playyard"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
+<a href="https://github.com/LetsGrowMoreCommunity/"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
+<a href="https://github.com/LetsGrowMoreCommunity/WebDev-Playyard/watchers"><img src="https://img.shields.io/github/watchers/LetsGrowMoreCommunity/WebDev-Playyard"></a>
+
+<a href="https://github.com/LetsGrowMoreCommunity/WebDev-Playyard/graphs/contributors"><img src="https://img.shields.io/github/contributors/LetsGrowMoreCommunity/WebDev-Playyard?color=brightgreen"></a>
+<a href="https://github.com/LetsGrowMoreCommunity/WebDev-Playyard/stargazers"><img src="https://img.shields.io/github/stars/LetsGrowMoreCommunity/WebDev-Playyard?color=0059b3"></a>
+<a href="https://github.com/LetsGrowMoreCommunity/WebDev-Playyard/network/members"><img src="https://img.shields.io/github/forks/LetsGrowMoreCommunity/WebDev-Playyard?color=yellow"></a>
+<a href="https://github.com/LetsGrowMoreCommunity/WebDev-Playyard/issues"><img src="https://img.shields.io/github/issues/LetsGrowMoreCommunity/WebDev-Playyard?color=0059b3"></a>
+<a href="https://github.com/LetsGrowMoreCommunity/WebDev-Playyard/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/LetsGrowMoreCommunity/WebDev-Playyard?color=yellow"></a>
+<a href="https://github.com/LetsGrowMoreCommunity/WebDev-Playyard/pulls"><img src="https://img.shields.io/github/issues-pr/LetsGrowMoreCommunity/WebDev-Playyard?color=brightgreen"></a>
+<a href="https://github.com/LetsGrowMoreCommunity/WebDev-Playyard/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/LetsGrowMoreCommunity/WebDev-Playyard?color=0059b3"></a> 
+</div>
+
 <img src="assets\media\banner.png" width="100%">
 
 <h1 align="center" >💻 WEBDEV - PLAYYARD 💻</h1>
