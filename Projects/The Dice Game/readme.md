@@ -9,7 +9,7 @@ It is a fun, interactive and simple project that lets user play a dice game by r
 random number from 1 to 6 each time the user refreshes the page, and the result of the game is displayed above. This could be used to settle disputes between friends
 by first randomly choosing the player number and then refreshing the page to get the result. A fun way to decide who's going to pay the bill next time!
 
-#### Preview it here: 
+#### Preview it here: https://ruheej1.github.io/WebDev-Playyard/Projects/The%20Dice%20Game/
 
 <br/>
 
