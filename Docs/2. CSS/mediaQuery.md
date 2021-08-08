@@ -11,7 +11,7 @@ We can impose different conditions under different circumstances using media que
   
 ``` css
 @media screen(min-width:900px){
-  //change something
+  /* change something */
 }
 ```
   
@@ -31,6 +31,6 @@ We can use more than 1 parameter to narrow down the range where we want breakpoi
 
 ``` css
 @media (min-width:900px) and (max-width: 1000px){
-  //change anything
+  /* change anything */
 }
 ```
