@@ -4,6 +4,7 @@
 
 #### WebPage Link : https://atif0604.github.io/WebDev-Playyard/Projects/Double-Vertical-Slider/index.html
 
+
 ### Use of the Project:
 
 <p>This App helps to Slide the two different parts of the webpage content at the same time </p>
