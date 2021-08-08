@@ -7,7 +7,7 @@
 
 We can impose different conditions under different circumstances using media queries. Examples.
   
-* If media is screen and minimum width is 900px change any style or property the way you want
+* If media is screen and minimum width is 900px, change any style or property the way you want
   
 ``` css
 @media screen(min-width:900px){
