@@ -5,9 +5,9 @@ The user can play drum sounds
 <br/>
 
 ### About The Project: 
-It is a fun,interactive and simple project that lets user play drum sounds on mouseclick or keypress.
+It is a fun, interactive and simple project that lets user play drum sounds on mouseclick or keypress.
 
-### Preview it here: https://ruheej1.github.io/WebDev-Playyard/Projects/The%20Drum%20Kit/
+#### Preview it here: https://ruheej1.github.io/WebDev-Playyard/Projects/The%20Drum%20Kit/
 
 <br/>
 
