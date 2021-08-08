@@ -7,6 +7,8 @@ There are many options to select like include only numbers, include only symbols
 
 We can choose the length of the password, minimum is 5 and maximum is 20.
 
+Another feature is to copy the password to clipboard.
+
 ## Tech Stacks Used
 
 
