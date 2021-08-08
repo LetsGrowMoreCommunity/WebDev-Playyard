@@ -11,7 +11,7 @@ We can impose different conditions under different circumstances using media que
   
 ``` css
 @media screen(min-width:900px){
-  /* change something */
+  /* change anything */
 }
 ```
   
