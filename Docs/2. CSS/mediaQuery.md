@@ -3,6 +3,8 @@
   We usually use media query breakpoints to make our website responsive,i.e. creating dynamic changes to the appearance of a website, depending on the screen size and orientation of the device being used to view it.
 </div>
 
+<br/>
+
 We can impose different conditions under different circumstances using media queries. Examples.
   
 * If media is screen and minimum width is 900px change any style or property the way you want
@@ -24,6 +26,7 @@ We can impose different conditions under different circumstances using media que
 }
 ```
 
+<br/>
 We can use more than 1 parameter to narrow down the range where we want breakpoint to occur,
 
 ``` css
