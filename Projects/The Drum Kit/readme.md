@@ -1,6 +1,6 @@
 # THE DRUM KIT 🥁
-Fun, interactive website that plays sounds! :notes: 	:headphones:
-The user can play drum sounds
+Fun, interactive website that plays sounds! :notes: 	
+The user can play drum sounds! :headphones:
 
 <br/>
 
