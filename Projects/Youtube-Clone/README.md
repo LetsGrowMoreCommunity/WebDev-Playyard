@@ -33,7 +33,10 @@ P.S. JavaScript will be added to this in Future updates!!
 <br><br>
 
 <p>
-	<img src="" alt="image">
+	<img src="https://user-images.githubusercontent.com/67221487/128750048-855ac53c-1483-4347-adae-c25e56117093.png" alt="image">
 	<br><br>
-	<img src="" alt="image">
+	<img src="https://user-images.githubusercontent.com/67221487/128750140-262c1d2a-2769-46d3-9b0c-0b96b4973dce.png" alt="image">
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/67221487/128750244-d0902e09-07e3-4af9-bd45-7e7ff246b11a.png" alt="image">
+
 </p>
