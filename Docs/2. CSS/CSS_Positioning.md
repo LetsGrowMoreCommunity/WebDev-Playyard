@@ -5,9 +5,9 @@
  
  <br/>
  
-* Static: All HTML elements are static by default and they go along with the HTML rules.
+* **Static**: All HTML elements are static by default and they go along with the HTML rules.
 
-* Relative: It positions the element that we have selected, relative to how it should be positioned if it was static. Eg.
+* **Relative**: It positions the element that we have selected, relative to how it should be positioned if it was static. Eg.
 
 ``` css
 img{
@@ -17,7 +17,7 @@ img{
 ```
 <br/>
 
-* Absolute: By using absolute positioning, we're taking element out of flow of document and is no longer considered a part of natural flow of document, that's why rest of the elements are shifted in place of that elememt we've positioned absolutely. Eg.
+* **Absolute**: By using absolute positioning, we're taking element out of flow of document and is no longer considered a part of natural flow of document, that's why rest of the elements are shifted in place of that elememt we've positioned absolutely. Eg.
 
 ``` css
 div{
@@ -31,7 +31,7 @@ div{
  ```
  <br/>
  
- * Fixed: The element will remain fixed on screen in its position even if we scroll. Eg.
+ * **Fixed**: The element will remain fixed on screen in its position even if we scroll. Eg.
 
 ``` css
 img{
