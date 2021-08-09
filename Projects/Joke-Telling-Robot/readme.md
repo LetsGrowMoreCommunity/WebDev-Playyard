@@ -1,7 +1,7 @@
 # Joke Telling Robot
 
 ## About the Project
-It is a simple jaavscript which uses web speech api for telling a joke and for randomly creating a joke, another joke api used.
+It is a simple javascript which uses web speech api for telling a joke and for randomly creating a joke, another joke api used.
 
 Jokes are based on <b>programming</b>  category.
 
