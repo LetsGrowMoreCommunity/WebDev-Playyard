@@ -22,6 +22,6 @@ https://official-joke-api.appspot.com/jokes/programming/random
 
 ## Live Demo
 
-<img src="./Assets/media/demo.gif" />
+https://user-images.githubusercontent.com/52875298/128720369-f464d934-8ed0-4f46-8cf7-1fb0030fa598.mp4
 
 
