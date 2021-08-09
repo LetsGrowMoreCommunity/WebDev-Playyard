@@ -1,3 +1,4 @@
+//for sounds and colors
 window.addEventListener('load', () => {
     const sounds = document.querySelectorAll(".sound");
     const pads = document.querySelectorAll(".pads div");
@@ -10,7 +11,7 @@ window.addEventListener('load', () => {
         "#4287f5",
         "#f099e7"
     ];
- //lets get going with thue sound here
+ //lets get going with the sound here
     pads.forEach((pad,index) => { 
         pad.addEventListener('click', function () {
             sounds[index].currentTime=0;
@@ -19,7 +20,7 @@ window.addEventListener('load', () => {
             createBubbles(index);
     });
 }); 
-//create a function
+//create a function for bubbles
 const createBubbles = (index) => {
     const bubble=document.createElement("div");
     visual.appendChild(bubble);
