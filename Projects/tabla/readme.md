@@ -12,12 +12,7 @@ It is a webapp that plays tabla beats when clicked on tabla or pressed d or t.
 
 ### How to get the wbapp on your local machine:
 
----
-
-- Download or clone the repository https://github.com/Ayushparikh-code/Web-dev-mini-projects
-
-
-```
+- Download or clone the repository
 - Go to the directory
 - Run the index.html file
 - Click on the tabla or press t or d and enjoy the beats.

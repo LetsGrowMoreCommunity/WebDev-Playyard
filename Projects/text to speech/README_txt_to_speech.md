@@ -13,13 +13,7 @@ It a simple text to speech converter where you can write can listen to it..
 
 ### How to get the game on your local machine:
 
----
-
 - Download or clone the repository
-
-
-```
-
 - Go to the directory
 - Run the index.html file
 - Write the text and then click on submit to listen to the audio.
@@ -28,7 +22,6 @@ It a simple text to speech converter where you can write can listen to it..
 
 ### How to use 
 1. Write the text which you want to listen in audio.
-
 2. Click submit.
 
 

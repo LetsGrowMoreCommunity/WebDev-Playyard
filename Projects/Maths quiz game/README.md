@@ -17,10 +17,6 @@ This webapp is basically for kids to practice addition.
 
 - Download or clone the repository
 
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
 - Go to the directory
 - Run the index.html file
 - Check your addition solving capacity.
