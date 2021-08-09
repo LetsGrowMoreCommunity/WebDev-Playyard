@@ -24,3 +24,4 @@ https://official-joke-api.appspot.com/jokes/programming/random
 
 <img src="./Assets/media/demo.gif" />
 
+<a href="https://github.com/khushi-purwar/WebDev-Playyard/blob/last-pr/Projects/Joke-Telling-Robot/Assets/media/Joke%20Telling%20Robot.mp4" title="Link Title"><img src="https://github.com/khushi-purwar/WebDev-Playyard/blob/last-pr/Projects/Joke-Telling-Robot/Assets/media/ss1.png" alt="Alternate Text" /></a>
