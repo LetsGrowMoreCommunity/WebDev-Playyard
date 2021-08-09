@@ -3,9 +3,9 @@
   In order to position elements on screen the way we want them to go instead of going with the default layout. Some of the ways to change position property- static, relative. absolute and fixed.
 </div>
  
+ <br/>
+ 
 * Static: All HTML elements are static by default and they go along with the HTML rules.
-
-<br/>
 
 * Relative: It positions the element that we have selected relative to how it should be positioned if it was static. Eg.
 
@@ -29,6 +29,7 @@ div{
    right: 30px;           /* we've added space of 30px between image and div */
  }
  ```
+ <br/>
  
  * Fixed: The element will remain fixed on screen in its position even if we scroll.
 
