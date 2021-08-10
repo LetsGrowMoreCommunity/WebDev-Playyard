@@ -31,11 +31,11 @@
 
 ``` html
     <form>
-      <label>Your Name: </label>
-      <input type="text" name="yourName" />
+      <label> Your Name: </label>
+      <input type="text" name="YourName" />
       <br/>
-      <label>Password: </label>
-      <input type="password" name="password" />
+      <label> Password: </label>
+      <input type="password" name="Password" />
     </form>
 ```
 <br/>
