@@ -23,6 +23,10 @@
   <li>Start Playing around the page<br></li>
 </ul>
 
+OR use this: https://mrkc2303.github.io/youtube-clone/
+
+NOTE: I am constantly updating this project to enhance my skills, hence, website on the link may seem litte different from this file.
+
 <h2 id="use-of-the-project">Use of the Project</h2>
 
 <p>
