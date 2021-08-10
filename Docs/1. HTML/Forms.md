@@ -45,5 +45,12 @@
 ``` html
     <input type="submit" value="Submit" />
 ```
-
  
+<br/>
+    
+* HTML5 has introduced a new attribute called placeholder. On <input> and <textarea> elements, this attribute provides a hint to the user of what information can be entered into the field.
+
+``` html
+    <label> Your Message </label>
+    <textarea name="name" rows="8" cols="30"></textarea>
+```
