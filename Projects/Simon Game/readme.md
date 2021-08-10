@@ -11,7 +11,7 @@ remember the sequence in which the buttons were pressed, one mistake and you los
 is that the browser doesn't show its previous button presses and the user has to remember all of them in addition with the new press, so as to be able to clear the level.
 
 
-#### Preview it here: 
+#### Preview it here: https://ruheej1.github.io/WebDev-Playyard/Projects/Simon%20Game/
 
 <br/>
 
