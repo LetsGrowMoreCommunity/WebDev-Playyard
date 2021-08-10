@@ -1,3 +1,7 @@
+
+
+<img src="assets\media\banner.png" width="100%">
+
 <div align="center">
 
 <a href="https://github.com/LetsGrowMoreCommunity/WebDev-Playyard"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
@@ -14,8 +18,6 @@
 <a href="https://github.com/LetsGrowMoreCommunity/WebDev-Playyard/pulls"><img src="https://img.shields.io/github/issues-pr/LetsGrowMoreCommunity/WebDev-Playyard?color=brightgreen"></a>
 <a href="https://github.com/LetsGrowMoreCommunity/WebDev-Playyard/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/LetsGrowMoreCommunity/WebDev-Playyard?color=0059b3"></a> 
 </div>
-
-<img src="assets\media\banner.png" width="100%">
 
 <h1 align="center" >💻 WEBDEV - PLAYYARD 💻</h1>
 
