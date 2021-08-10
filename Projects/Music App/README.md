@@ -1,4 +1,7 @@
 <h1>Music App</h1>
+<p>My music app deployment link: https://sulagna-dutta-roy.github.io/Music-App/</p>
+
+
 <p>Music app using Javascript.User just tap once in the colors and song will played.You will see different kind of songs.There are 6 colors and 6 songs.I've made this project using pure javascript.<p>
 
 <h3>Tech Stacks Used:</h3>
