@@ -1,0 +1,99 @@
+* {
+    background-color: #202124;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 14px;
+    font-family: arial, sans-serif;
+    color: #bdc1c6;
+}
+.profile {
+    width: 35px;
+}
+nav {
+    float: right;
+}
+.nav-link {
+    /* position: relative; */
+    /* top: 12px; */
+    margin-left: 10px;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+}
+.apps {
+    color: rgba(255, 255, 255, 0.87);
+    position: relative;
+    top: 8px;
+    margin: 0 24px;
+}
+.profile {
+    margin-right: 24px;
+    position: relative;
+    top: 15px;
+}
+main {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -160%);
+}
+.google {
+    position: relative;
+}
+
+.search-box {
+    width: 585px;
+    height: 45px;
+    position: absolute;
+    transform: translate(-27%, 61%);
+}
+input[type="text"] {
+    height: 100%;
+    width: 100%;
+    border: 1px solid #5f6368;
+    border-radius: 24px;
+    outline: none;
+}
+.searchicon {
+    position: absolute;
+    top: 25%;
+    left: 2%;
+    color: #9aa0a6;
+}
+.mic {
+    position: absolute;
+    top: 25%;
+    right: 3%;
+    width: 14px;
+}
+
+.btn a {
+    position: relative;
+    top: 110px;
+    background-color: #303134;
+    border: 1px solid #303134;
+    border-radius: 4px;
+    color: #e8eaed;
+    text-decoration: none;
+    padding: 10px 15px;
+    margin: 4px;
+}
+
+.lang {
+    position: absolute;
+    bottom: -170px;
+    width: 550px;
+    /* border: 1px solid white; */
+    transform: translateX(-21%);
+}
+
+.lang a {
+    color: #8ab4f8;
+    text-decoration: none;
+    margin: 3px;
+}
